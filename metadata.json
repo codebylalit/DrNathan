@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Nathon Smith",
+  "description": "Personal brand website and medical content hub for Dr. Nathon Smith, Harvard MD & Stanford Medical Resident.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
